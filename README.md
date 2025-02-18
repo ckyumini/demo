@@ -12,7 +12,7 @@
 
 ## 설치 방법
 
-(설치 방법에 대한 상세 지침을 여기에 추가하세요)
+pip install torch captum scikit-image numpy matplotlib
 
 ## 사용 예시
 
